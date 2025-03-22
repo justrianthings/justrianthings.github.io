@@ -6,8 +6,36 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Mar 2025 23:45:41 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 23:40:06 -0400</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be Who</title>
+      <link>/posts/bewho/</link>
+      <pubDate>Fri, 21 Mar 2025 23:40:06 -0400</pubDate>
+      <guid>/posts/bewho/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/beWho.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Im Just Here</title>
+      <link>/posts/imjusthere/</link>
+      <pubDate>Fri, 21 Mar 2025 23:38:26 -0400</pubDate>
+      <guid>/posts/imjusthere/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/imJustHere.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ear Conversations</title>
+      <link>/posts/earconversations/</link>
+      <pubDate>Fri, 21 Mar 2025 23:36:35 -0400</pubDate>
+      <guid>/posts/earconversations/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/earConversations.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinforce You</title>
+      <link>/posts/reinforceu/</link>
+      <pubDate>Fri, 21 Mar 2025 23:34:11 -0400</pubDate>
+      <guid>/posts/reinforceu/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/reinforceU.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Playground</title>
       <link>/posts/playground/</link>
